@@ -1,0 +1,15 @@
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\bin\Debug\net7.0\Lab02-ATM.exe
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\bin\Debug\net7.0\Lab02-ATM.deps.json
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\bin\Debug\net7.0\Lab02-ATM.runtimeconfig.json
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\bin\Debug\net7.0\Lab02-ATM.dll
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\bin\Debug\net7.0\Lab02-ATM.pdb
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\obj\Debug\net7.0\Lab02-ATM.csproj.AssemblyReference.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\obj\Debug\net7.0\Lab02-ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\obj\Debug\net7.0\Lab02-ATM.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\obj\Debug\net7.0\Lab02-ATM.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\obj\Debug\net7.0\Lab02-ATM.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\obj\Debug\net7.0\Lab02-ATM.dll
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\obj\Debug\net7.0\refint\Lab02-ATM.dll
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\obj\Debug\net7.0\Lab02-ATM.pdb
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\obj\Debug\net7.0\Lab02-ATM.genruntimeconfig.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab02-ATM\Lab02-ATM\obj\Debug\net7.0\ref\Lab02-ATM.dll
